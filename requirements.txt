@@ -1,0 +1,20 @@
+streamlit
+scipy
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+pyecharts
+streamlit-echarts
+swdp @ https://nexus.stonewise.cn/repository/pypi-public/simple/
+boto3
+psutil
+pyarrow
+pycryptodome
+redis
+requests
+requests-toolbelt
+scikit-learn
+# rdkit
+# pybiomed
